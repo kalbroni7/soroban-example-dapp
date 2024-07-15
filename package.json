@@ -23,7 +23,7 @@
     "axios": "^0.27.2",
     "bigint-conversion": "^2.4.1",
     "crowdfund-contract": "file:./.soroban-example-dapp/crowdfund-contract",
-    "humanize-duration": "^3.27.3",
+    "humanize-duration": "^3.32.1",
     "moment": "^2.29.4",
     "next": "^13.4.4",
     "react": "^18.2.0",
