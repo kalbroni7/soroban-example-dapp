@@ -17,7 +17,7 @@
     "preinstall": "npm run build:contracts && npm run bindings"
   },
   "dependencies": {
-    "@radix-ui/react-dialog": "1.0.2",
+    "@radix-ui/react-dialog": "1.1.1",
     "@stellar/freighter-api": "^1.5.1",
     "abundance-token": "file:./.soroban-example-dapp/abundance-token",
     "axios": "^0.27.2",
