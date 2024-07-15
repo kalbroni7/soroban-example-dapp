@@ -26,8 +26,8 @@
     "humanize-duration": "^3.27.3",
     "moment": "^2.29.4",
     "next": "^13.4.4",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "soroban-client": "1.0.0-beta.2"
   },
   "devDependencies": {
